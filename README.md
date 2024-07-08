@@ -1,4 +1,4 @@
-# smart-board-using-python
+# Smart Board: AI Virtual Mouse and Gesture based Doodling
 Python programming language is used for developing the AI virtual mouse system and also
 OpenCV which is the library for computer vision is used in the AI virtual mouse system. In the
 proposed AI virtual mouse system, the model makes use of the MediaPipe package for the
